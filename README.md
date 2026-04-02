@@ -29,5 +29,5 @@ making use of Java's polymorphic features. There's, however, a ridiculously over
 that this app only displays items in a Listview with no means to categorize, query, sort, etc.  
 
 Overall it's been quite an unpleasant experience and distasteful glimpse into a part of AOSP for me, that reaffirmed
-my doubts on the quality of open source code as shared with the public.
+my doubts on the quality of open source code as shared with the public
 
